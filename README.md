@@ -19,6 +19,6 @@ More information on how it works in the following slides with results at the end
 
 # Can I use it in my project ?
 
-As it stand, it's a big no. Indeed, our method is far from perfect, even if it's yielding correct results most of the time. We could've used
+As it stands, it's a big no. Indeed, our method is far from perfect, even if it's yielding correct results most of the time. We could've used
 better algorithms like the MSER algorithm, and then develop on this method. More information about the MSER algorithm : https://en.wikipedia.org/wiki/Maximally_stable_extremal_regions
 Moreover, there is far better library for this, like OpenCV.
